@@ -512,7 +512,7 @@ public class manager extends JFrame{
 		if(flag2==1) {
 			JLabel label=new JLabel();
 			label.setBounds(300,150,200,200);
-			label.setText("<html><body>欢迎使用唐英福文件管理器<br><br>用户须知：本程序需访问计算机内存<body></html>");
+			label.setText("<html><body>欢迎使用tony文件管理器<br><br>用户须知：本程序需访问计算机内存<body></html>");
 			panel.add(label);
 		}
 		
